@@ -15,5 +15,5 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: ...
 
 ### Languages and Tools:
-![alt text](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png)
+[<img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>]
 
