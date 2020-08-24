@@ -44,7 +44,8 @@ Here are some ideas to get you started:-->
 
 <details>
     <summary>:zap: Recent Activity</summary>
-
+    <!--START_SECTION:activity-->
+    <!--END_SECTION:activity-->
 </details>
 
 <!--START_SECTION:waka-->
