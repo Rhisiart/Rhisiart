@@ -30,7 +30,7 @@ Here are some ideas to get you started:-->
 ---
 <details>
     <summary>:zap: Github Stats</summary>
-    <img align="left" alt="langstatus" width="26px" src="https://github-readme-stats-rhisiart.vercel.app/api?username=Rhisiart&layout=compact"/>
+    <img align="left" alt="langstatus" width="26px" src="https://github-readme-stats-seven-rho.vercel.app/api?username=Rhisiart&layout=compact">
     <img align="left" alt="status" width="26px" src="https://github-readme-stats-seven-rho.vercel.app/api?username=Rhisiart&show_icons=true&hide_border=true"/>
 </details>
 
