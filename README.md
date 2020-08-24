@@ -32,8 +32,12 @@ Here are some ideas to get you started:-->
 
 <details>
     <summary>:zap: Github Stats</summary>
-    <img align="left" alt="langstatus" src="https://github-readme-stats-seven-rho.vercel.app/api/top-langs/?username=Rhisiart&layout=compact"/>
-    <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-seven-rho.vercel.app/api?username=Rhisiart&show_icons=true&hide_border=true" />
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img align="center" src="https://github-readme-stats-seven-rho.vercel.app/api/top-langs/?username=Rhisiart" />
+        </a>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img align="center" src="https://github-readme-stats-seven-rho.vercel.app/api?username=Rhisiart&show_icons=true&line_height=27" alt="My github stats" />
+        </a> 
 </details>
 
 <br/>
