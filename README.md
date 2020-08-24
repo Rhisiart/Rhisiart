@@ -30,7 +30,6 @@ Here are some ideas to get you started:-->
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
