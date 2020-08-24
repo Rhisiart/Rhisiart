@@ -45,6 +45,7 @@ Here are some ideas to get you started:-->
 <details>
     <summary>:zap: Recent Activity</summary>
     <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com//Rhisiart/Project/issues/1) in [Rhisiart/Project](https://github.com//Rhisiart/Project)
     <!--END_SECTION:activity-->
 </details>
 
