@@ -30,7 +30,7 @@ Here are some ideas to get you started:-->
 ---
 <details>
     <summary>:zap: Github Stats</summary>
-    [![Top Langs](https://github-readme-stats-beta-blue.vercel.app/api?username=Rhisiart&layout=compact)](https://github.com/Rhisiart/github-readme-stats)
+    [![Top Langs](https://github-readme-stats-beta-blue.vercel.app/api?username=Rhisiart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     <img align="left" alt="github" width="26px" src="https://github-readme-stats-beta-blue.vercel.app/api?username=Rhisiart&show_icons=true&hide_border=true"/>
 </details>
 
