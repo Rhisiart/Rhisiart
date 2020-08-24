@@ -48,7 +48,9 @@ Here are some ideas to get you started:-->
     <!--END_SECTION:activity-->
 </details>
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+<details>
+    <summary>:zap: Recent Activity</summary>
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
+</details>
 
