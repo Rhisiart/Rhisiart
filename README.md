@@ -1,18 +1,7 @@
-### Hi there, I´m Ricardo 👋
-
-<!--
-**Rhisiart/Rhisiart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋
+---
+Welcome to my page!
+I´m Ricardo, developer from **Portugal** :portugal:. I am always open to collaborating on projects. Feel free to create a pull request to contribute to any of my repositories.:
 
 ### Languages and Tools:
 <img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
@@ -28,6 +17,10 @@ Here are some ideas to get you started:-->
 <img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 
 <br />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <br />
 
 <details>
@@ -38,19 +31,13 @@ Here are some ideas to get you started:-->
         <a href="https://github.com/anuraghazra/github-readme-stats">
             <img align="center" src="https://github-readme-stats-seven-rho.vercel.app/api?username=Rhisiart&show_icons=true&line_height=27" alt="My github stats" />
         </a> 
-</details>
+</details>  
 
 <br/>
 
 <details>
-    <summary>:zap: Recent Activity</summary>
+    <summary>:zap: Recent Github Activity</summary>
     <!--START_SECTION:activity-->
     <!--END_SECTION:activity-->
-</details>
-
-<details>
-    <summary>:zap: Recent Activity</summary>
-    <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
 </details>
 
