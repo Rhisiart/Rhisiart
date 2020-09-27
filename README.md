@@ -38,7 +38,7 @@ I´m Ricardo, developer from **Portugal** :portugal:. I am always open to collab
 <details>
     <summary>:zap: Recent Github Activity</summary>
     <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//Rhisiart/Rhisiart/issues/1) in [Rhisiart/Rhisiart](https://github.com//Rhisiart/Rhisiart)
+1. ❗️ Opened issue [#1](https://github.com/Rhisiart/Rhisiart/issues/1) in [Rhisiart/Rhisiart](https://github.com/Rhisiart/Rhisiart)
     <!--END_SECTION:activity-->
 </details>
 
